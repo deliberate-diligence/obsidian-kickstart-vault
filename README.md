@@ -1,4 +1,4 @@
-# obsidian-kickstart-vault
+# [Deliberate-Diligence.com](https://www.deliberate-diligence.com/) Obsidian Kickstart Vault Template
 
 Hi all,
 
