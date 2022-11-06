@@ -23,4 +23,4 @@ I'll put in a video here where I explain it later on.
 
 
 Best regards,
--- [Martin](https://twitter.com/DelDiligence) from [Deliberate-Diligence.com](https://www.deliberate-diligence.com/) 
+  [Martin](https://twitter.com/DelDiligence) from [Deliberate-Diligence.com](https://www.deliberate-diligence.com/) 
