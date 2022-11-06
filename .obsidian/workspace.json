@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "d5c99c27e77bba8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "672efd109a95e8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eb5dfb0bf322d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022/November/45/2022-11-07 Monday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbda1ce31b2dbaba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6331304945770ba",
+        "type": "tabs",
+        "dimension": 52.040816326530624,
+        "children": [
+          {
+            "id": "3ab18e91b17bbb48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "893d1288ead045e1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "642f3a56c0967b47",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "08a50f5ce89949b0",
+        "type": "tabs",
+        "dimension": 47.959183673469376,
+        "children": [
+          {
+            "id": "6514b260dccf02c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "right": {
+    "id": "0acd9595224701c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f11f8af443b502d9",
+        "type": "tabs",
+        "dimension": 24.857142857142858,
+        "children": [
+          {
+            "id": "5caf1c8397ec074f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "759d3d0752a35f71",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1f1370faead62c57",
+        "type": "tabs",
+        "dimension": 24.571428571428573,
+        "children": [
+          {
+            "id": "d1e7a2d13754bfa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022/November/45/2022-11-07 Monday.md"
+              }
+            }
+          },
+          {
+            "id": "2226ab8c4d756729",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022/November/45/2022-11-07 Monday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cea72bc7eda4c9b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022/November/45/2022-11-07 Monday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a2f309c9d01cd378",
+        "type": "tabs",
+        "dimension": 50.57142857142857,
+        "children": [
+          {
+            "id": "5354901da5ea4eaf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d43d474625a5589e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "active": "5eb5dfb0bf322d1c",
+  "lastOpenFiles": [
+    "Initital Tags.md",
+    "2022/November/45/2022-11-07 Monday.md",
+    "2022/November/45/2022-CW45.md",
+    "2022/November/44/2022-11-06 Sunday.md",
+    "Task Review.md",
+    "Templates/Monthly Note.md",
+    "Templates/Weekly Note.md",
+    "Note Review.md",
+    "Templates/Meeting.md",
+    "Templates/Kanban Default.md"
+  ]
+}

@@ -1,0 +1,24 @@
+
+/* 
+h1 { border-bottom: 2px solid darkgray; }  
+h2 { border-bottom: 2px solid darkgray; }
+h3 { border-bottom: 2px solid darkgray; }
+*/
+
+
+.cm-s-obsidian div.HyperMD-header-1, .markdown-preview-view h1 { 
+	border-bottom: 3px solid #777777;  
+}
+/*
+.cm-s-obsidian div.HyperMD-header-2, .markdown-preview-view h2 { 
+	border-bottom: 0.5px solid #777777;  
+	opacity:0.75;
+}
+.cm-s-obsidian div.HyperMD-header-3, .markdown-preview-view h3 { 
+	
+}
+
+.cm-active {
+    background-color: rgba(60, 56, 54, 0.5)
+}
+*/

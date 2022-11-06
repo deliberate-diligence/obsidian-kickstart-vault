@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "custom additions"
+  ],
+  "baseFontSize": 19
+}

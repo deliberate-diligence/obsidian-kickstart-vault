@@ -1,0 +1,30 @@
+{
+  "todoPageName": "task\nidea",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "tag",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "a->z",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "2022/October/43/2022-10-24 Monday.md",
+    "2022/October/42/2022-10-22 Saturday.md",
+    "2022/October/42/2022-10-23 Sunday.md",
+    "#task/wantto/soon",
+    "#task",
+    "#task/cando",
+    "#task/haveto",
+    "#task/mustdo/p1",
+    "#task/mustdo/p3",
+    "#task/wantto/now",
+    "#task/wantto/somewhen",
+    "#task/mustdo"
+  ],
+  "_hiddenTags": [
+    "idea"
+  ]
+}

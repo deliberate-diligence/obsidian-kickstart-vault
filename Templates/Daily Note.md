@@ -1,0 +1,76 @@
+---
+reviewed: no
+---
+> [!hint] Mindset
+> 1. Wherever you are, be all there.
+> 2. Subtraction beats addition every single time.
+> 3. Put all your willpower into content, none into concepts.
+
+# Reflection:
+
+## Morning
+
+## Evening
+
+## Concerns
+
+# Journal:
+
+## 06:00 - 09:00 
+> [!note]
+> Feel free to change this to you individual routines you want to stick by day by day! Also, I recommend adjust the time frames according to you usual timeboxes within a day.
+
+- [ ] 06:00 Knowledge Reading
+- [ ] 06:30 Do the most important thing of the day
+- [ ] 07:15 Morning Review
+	- [ ] Check mindset
+	- [ ] Write diary
+	- [ ] Add a Braindump to the diary concerns.
+	- [ ] Check Dayone
+	- [ ] Check pre-planned tasks
+	- [ ] Think about additional ad-hoc tasks and put them on the agenda
+	- [ ] Check Browser Tabs
+- [ ] 07:30 Workout
+
+## 09:00 - 11:30
+
+## 11:30 - 13:00
+
+## 13:00 - 17:00
+
+## 17:00 - 19:00
+
+## 19:00 - 21:00
+- [ ] 19:00 Evening Review
+	- [ ] Review/clean up today's notes
+	- [ ] Duplicate note to DayOne
+	- [ ] Inbox Zero (Obsidian, Apple Notes, Voice, Reminders)
+	- [ ] Check daily reminder
+	- [ ] Set up tomorrow's agenda and allocate tasks.
+	- [ ] Check if something from Weekly Regulars or Quarterly Concerns is to do.
+- [ ] (Optional) Be creative! 
+
+# To do:
+
+## Planned
+```dataview 
+TASK WHERE contains(text, this.file.name)
+AND !completed
+SORT tags ASC
+```
+## Completed
+```dataview 
+TASK WHERE contains(text, this.file.name)
+AND completed
+SORT tags ASC
+```
+
+# Notes:
+```dataview 
+TABLE file.ctime as "Created" 
+WHERE file.cday = this.file.day 
+SORT file.ctime ASC 
+```
+
+# Bullets:
+---

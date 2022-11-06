@@ -1,0 +1,19 @@
+- #task
+	- #task/cando
+	- #task/wantto
+		- #task/wantto/now
+		- #task/wantto/soon
+		- #task/wantto/somewhen
+	- #task/haveto
+	- #task/mustdo 
+		- #task/mustdo/p1
+		- #task/mustdo/p2
+		- #task/mustdo/p3
+- #idea
+- #toRead
+- #insight
+- #observation
+- #keyfinding
+- #dailyreminder
+- #thought
+- #reminder 
