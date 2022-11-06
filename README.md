@@ -7,7 +7,7 @@ I recently demonstrated [on my Blog how I set up my Obsidian](https://www.delibe
 I'm happy to do that through this git repository. Feel free to use it and adapt it to your needs. 
 
 ## The Template follows some basic paradigms:
-1. Periodic Notetakink, i.e. having a daily note as a central entry point
+1. Periodic Note-taking, i.e. having a daily note as a central entry point
 2. Simple task management with #tag hierarchies
 3. A lot of plugins and customizations to streamline the day-by-day workflows.
 
