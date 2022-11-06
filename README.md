@@ -19,7 +19,7 @@ If not, you can put it anywhere where you want.
 3. I am synching my Vault across Windows/Mac, so I am using the [Sync plan from Obsidian](https://obsidian.md/sync), which works fine. Otherwise, you can choose other cloud drives (e.g. OneDrive, Google Drive, iCloud, etc.)
 
 ## How do I use the Deliberate Diligence vault template?
-I'll put in a video here where I explain it later on.
+[![Explanation Video](https://user-images.githubusercontent.com/117580778/200184482-f910c654-a90d-41a6-95b1-5eee403b9161.png)](https://www.loom.com/share/d17c41e4605e41fe8314cad76ce72e5)
 
 
 Best regards,
